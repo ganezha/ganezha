@@ -1,0 +1,17 @@
+name: typecheck
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  tsc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: strict typecheck
+        run: npx --yes -p typescript@5.6.3 tsc -p tsconfig.json --pretty false
