@@ -42,6 +42,8 @@ stateDiagram-v2
     Ketawa --> Baca
 ```
 
+Alur kerja lengkap: [**WORKFLOW.md**](https://github.com/ganezha/kotak-kecil/blob/main/WORKFLOW.md) — tiga loop, tahap **03 pakai sendiri**.
+
 Ilmu bukan harta; ia air yang mengalir.
 
 ## now
