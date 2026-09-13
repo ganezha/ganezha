@@ -42,14 +42,12 @@ stateDiagram-v2
     Ketawa --> Baca
 ```
 
-Alur kerja lengkap: [**WORKFLOW.md**](https://github.com/ganezha/kotak-kecil/blob/main/WORKFLOW.md) — tiga loop, tahap **03 pakai sendiri**.
-
 Ilmu bukan harta; ia air yang mengalir.
 
 ## now
 
-Building in public: [**KOTAK kecil**](https://github.com/ganezha/kotak-kecil) — kotak perkakas MIT.  
-Tool pertama: [`han.sip`](https://github.com/ganezha/kotak-kecil/tree/main/han.sip) — ronda malam untuk git.
+[**KOTAK kecil**](https://github.com/ganezha/kotak-kecil) — [`han.sip`](https://github.com/ganezha/kotak-kecil/tree/main/han.sip)  
+Yang berikutnya belum ada filenya.
 
 ## stack
 
@@ -57,7 +55,6 @@ Tool pertama: [`han.sip`](https://github.com/ganezha/kotak-kecil/tree/main/han.s
 javascript   shipping small tools
 node         scripts, bots, kesalahan yang sudah jadi pelajaran
 git          masih googling rebase, dengan damai
-web3         penasaran, bukan guru
 ```
 
 ## contract
