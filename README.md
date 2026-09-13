@@ -46,7 +46,7 @@ Ilmu bukan harta; ia air yang mengalir.
 
 ## now
 
-Building in public: [**kecil**](https://github.com/ganezha/kecil) — tools MIT, satu tugas per file.
+Building in public: [**KOTAK kecil**](https://github.com/ganezha/kotak-kecil) — kotak perkakas MIT, satu tugas per file.
 
 ## stack
 
