@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Ganezha — whoami.ts, still compiling" />
+  <img src="https://raw.githubusercontent.com/ganezha/ganezha/main/assets/banner.svg" alt="Ganezha — whoami.ts, still compiling" />
 </p>
 
 <p align="center">
