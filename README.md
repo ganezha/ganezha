@@ -1,32 +1,65 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" alt="Ganezha — whoami.ts, still compiling" />
+</p>
 
-# Ganezha
+<p align="center">
+  <a href="https://github.com/ganezha/ganezha/actions/workflows/typecheck.yml"><img src="https://github.com/ganezha/ganezha/actions/workflows/typecheck.yml/badge.svg" alt="strict typecheck" /></a>
+</p>
 
-**Laugh first, debug later.**
+Saya lebih senang **belajar** daripada **pintar**.  
+Kalau error: ketawa dulu. Baru beresin.
 
-Open-source creator. I ship small tools — JavaScript, Node, Git, and the occasional Web3 experiment.
-
-Belajar coding setiap hari. Ilmu bukan harta; ia air yang mengalir.
-
-</div>
+The compiler is strict. I am not.
 
 ---
 
-### Now
+## identity
 
-Building in public: [**kecil**](https://github.com/ganezha/kecil) — tiny MIT tools, one job each.
+Sumber kebenaran ada di [`profile.ts`](./profile.ts).  
+Setiap push dicek `tsc --strict`. Kalau badge ini merah, berarti saya sedang jujur.
 
-### Stack
+```ts
+export const ganezha = {
+  name: "Ganezha",
+  prefers: "belajar",
+  avoids: "terlihat pintar",
+  mode: "learning",
+} as const satisfies Ganezha;
+```
 
-`JavaScript` · `Node.js` · `Git` · `Web3`
+`satisfies` biar tipenya yang ngawasi saya.  
+`as const` biar saya tidak ganti cerita di tengah jalan.
 
-### How I work
+## loop
 
-- Public by default, licensed **MIT**
+```mermaid
+stateDiagram-v2
+    [*] --> Baca
+    Baca --> Bingung
+    Bingung --> Coba
+    Coba --> Error
+    Error --> Ketawa
+    Ketawa --> Baca
+```
+
+Ilmu bukan harta; ia air yang mengalir.
+
+## now
+
+Building in public: [**kecil**](https://github.com/ganezha/kecil) — tools MIT, satu tugas per file.
+
+## stack
+
+```
+javascript   shipping small tools
+node         scripts, bots, kesalahan yang sudah jadi pelajaran
+git          masih googling rebase, dengan damai
+web3         penasaran, bukan guru
+```
+
+## contract
+
+- Public by default, MIT
 - One repo, one job
 - No secrets in git
-- Issues and pull requests welcome
-
----
-
-> Knowledge is not a possession — it flows like water to those who seek.
+- Issues and PRs welcome — saya belajar dari yang lebih telaten
