@@ -15,6 +15,10 @@ export const ganezha = {
   mode: "learning",
 } as const satisfies Ganezha;
 
+/** GitHub profile bio. Hard cap 160 chars. Keep in sync with the account. */
+export const bio =
+  "Laugh first, debug later. I'd rather keep learning than look smart. Ilmu bukan harta; ia air yang mengalir." as const;
+
 type Step = "read" | "break" | "laugh" | "fix";
 
 /** Finite unrolling. The infinite version is how I actually live. */
