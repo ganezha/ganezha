@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ganezha/ganezha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ganezha
 
-Here are some ideas to get you started:
+**Laugh first, debug later.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open-source creator. I ship small tools — JavaScript, Node, Git, and the occasional Web3 experiment.
+
+Belajar coding setiap hari. Ilmu bukan harta; ia air yang mengalir.
+
+</div>
+
+---
+
+### Now
+
+Building in public: [**kecil**](https://github.com/ganezha/kecil) — tiny MIT tools, one job each.
+
+### Stack
+
+`JavaScript` · `Node.js` · `Git` · `Web3`
+
+### How I work
+
+- Public by default, licensed **MIT**
+- One repo, one job
+- No secrets in git
+- Issues and pull requests welcome
+
+---
+
+> Knowledge is not a possession — it flows like water to those who seek.
