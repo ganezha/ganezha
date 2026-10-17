@@ -1,0 +1,16 @@
+{
+	"login": "ganezha",
+	"name": "Ganezha",
+	"followers": 1,
+	"publicRepos": 1,
+	"totalStars": 0,
+	"topLanguages": [{ "name": "Kotlin", "color": "#A97BFF", "share": 1 }],
+	"contributions": { "total": 16, "commits": 15, "prs": 0, "issues": 0 },
+	"calendar": [],
+	"brankas": {
+		"stars": 0,
+		"latestTag": "v1.0.0",
+		"publishedAt": "2026-10-17T05:53:04Z"
+	},
+	"fetchedAt": "2026-10-17T12:38:04.743Z"
+}

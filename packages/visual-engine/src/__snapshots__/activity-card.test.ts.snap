@@ -1,0 +1,23 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`activity card > matches the accessible SVG structure snapshot 1`] = `
+{
+  "animations": 0,
+  "labels": [
+    "Activity",
+    "MOST ACTIVE DAY",
+    "2026-10-16 · 3",
+    "CURRENT STREAK",
+    "1 days",
+    "LONGEST STREAK",
+    "1 days",
+    "LAST 30 DAYS",
+    "4",
+    "LAST PUSHED PUBLIC REPO",
+    "—",
+  ],
+  "title": "GitHub activity for ganezha; 16 total contributions; 2026-10-14 to 2026-10-16",
+  "titleIsFirstChild": true,
+  "viewBox": "0 0 495 195",
+}
+`;

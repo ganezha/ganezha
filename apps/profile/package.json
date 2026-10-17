@@ -1,0 +1,12 @@
+{
+	"name": "@ganezha/profile",
+	"private": true,
+	"type": "module",
+	"exports": "./src/index.ts",
+	"dependencies": {
+		"@ganezha/config": "workspace:*",
+		"@ganezha/github-data": "workspace:*",
+		"@ganezha/shared": "workspace:*",
+		"@ganezha/visual-engine": "workspace:*"
+	}
+}

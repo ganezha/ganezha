@@ -1,0 +1,8 @@
+Asset: Twemoji pleading face (U+1F97A), 1f97a.svg
+Author: Twitter, Inc. and other contributors
+Source: https://github.com/twitter/twemoji/blob/master/assets/svg/1f97a.svg
+Upstream Git blob SHA: fe9336084a47f3846bc52f76763c1e37d64e3425
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License source: https://github.com/twitter/twemoji/blob/master/LICENSE-GRAPHICS
+License URL: https://creativecommons.org/licenses/by/4.0/
+No modifications made to the artwork.

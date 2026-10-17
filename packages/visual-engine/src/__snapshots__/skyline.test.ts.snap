@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`contribution skyline > matches the SVG structure snapshot 1`] = `
+{
+  "dayBlocks": 14,
+  "labels": [
+    "Contribution skyline",
+    "Total contributions: 91",
+  ],
+  "shapeLevels": 14,
+  "title": "Contribution skyline; 91 total contributions; 2025-10-12 to 2025-10-25",
+  "titleIsFirstChild": true,
+  "viewBox": "0 0 1200 300",
+  "weeks": 2,
+}
+`;

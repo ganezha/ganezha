@@ -1,0 +1,12 @@
+{
+	"name": "@ganezha/visual-engine",
+	"private": true,
+	"type": "module",
+	"exports": "./src/index.ts",
+	"dependencies": {
+		"@ganezha/config": "workspace:*",
+		"@ganezha/github-data": "workspace:*",
+		"satori": "0.62.0",
+		"svgo": "^4.1.0"
+	}
+}

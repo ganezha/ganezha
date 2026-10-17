@@ -1,0 +1,8 @@
+JetBrains Mono font files from the official JetBrains repository.
+
+Repository: https://github.com/JetBrains/JetBrainsMono
+Regular TTF: https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/JetBrainsMono-Regular.ttf
+Bold TTF: https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/JetBrainsMono-Bold.ttf
+Regular Git blob: 711830ede02a366f8b99f88e52f3148405e67eaf
+Bold Git blob: cd1bee0704e05a899cd70f0640a801f1afe046b2
+License: SIL Open Font License 1.1 (see OFL.txt).

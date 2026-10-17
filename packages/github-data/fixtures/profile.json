@@ -1,0 +1,118 @@
+{
+	"data": {
+		"user": {
+			"login": "sample-profile",
+			"name": "Contoh Profil",
+			"createdAt": "2020-01-02T03:04:05Z",
+			"followers": {
+				"totalCount": 42
+			},
+			"repositories": {
+				"totalCount": 7,
+				"nodes": [
+					{
+						"name": "sample-typescript-app",
+						"stargazerCount": 100,
+						"primaryLanguage": {
+							"name": "TypeScript",
+							"color": "#3178C6"
+						}
+					},
+					{
+						"name": "sample-typescript-tools",
+						"stargazerCount": 50,
+						"primaryLanguage": {
+							"name": "TypeScript",
+							"color": "#3178C6"
+						}
+					},
+					{
+						"name": "sample-kotlin-app",
+						"stargazerCount": 80,
+						"primaryLanguage": {
+							"name": "Kotlin",
+							"color": "#A97BFF"
+						}
+					},
+					{
+						"name": "sample-kotlin-model",
+						"stargazerCount": 60,
+						"primaryLanguage": {
+							"name": "Kotlin",
+							"color": "#A97BFF"
+						}
+					},
+					{
+						"name": "sample-rust-cli",
+						"stargazerCount": 30,
+						"primaryLanguage": {
+							"name": "Rust",
+							"color": "#DEA584"
+						}
+					},
+					{
+						"name": "sample-python-data",
+						"stargazerCount": 20,
+						"primaryLanguage": {
+							"name": "Python",
+							"color": "#3572A5"
+						}
+					},
+					{
+						"name": "sample-go-service",
+						"stargazerCount": 10,
+						"primaryLanguage": {
+							"name": "Go",
+							"color": "#00ADD8"
+						}
+					}
+				]
+			},
+			"contributionsCollection": {
+				"totalCommitContributions": 120,
+				"totalPullRequestContributions": 18,
+				"totalIssueContributions": 9,
+				"contributionCalendar": {
+					"totalContributions": 147,
+					"weeks": [
+						{
+							"contributionDays": [
+								{
+									"date": "2026-10-12",
+									"contributionCount": 3
+								},
+								{
+									"date": "2026-10-13",
+									"contributionCount": 0
+								},
+								{
+									"date": "2026-10-14",
+									"contributionCount": 5
+								}
+							]
+						},
+						{
+							"contributionDays": [
+								{
+									"date": "2026-10-15",
+									"contributionCount": 2
+								},
+								{
+									"date": "2026-10-16",
+									"contributionCount": 1
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		"repository": {
+			"stargazerCount": 321,
+			"latestRelease": {
+				"tagName": "v1.2.3",
+				"publishedAt": "2026-10-01T12:00:00Z"
+			}
+		}
+	}
+}

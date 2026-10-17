@@ -1,0 +1,10 @@
+{
+	"name": "@ganezha/github-data",
+	"private": true,
+	"type": "module",
+	"exports": "./src/index.ts",
+	"dependencies": {
+		"@ganezha/shared": "workspace:*",
+		"zod": "^4.6.7"
+	}
+}
